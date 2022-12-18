@@ -75,8 +75,8 @@ display: ${props => props.loading === true ? 'flex' : 'none'};
 const ButtonGroup = styled.div`
 display: flex;
 position: absolute;
-left: 524px;
-top: 66px;
+left: 229px;
+top: 20px;
 `;
 
 const CallsButton = styled.div`
