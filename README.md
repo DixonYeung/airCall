@@ -13,4 +13,7 @@ A React app to mimic call history in mobile call app
 
 - Restore all archived calls by clicking restore icon in `Archives` tab
 
+Screenshot:
+![Alt text](https://live.staticflickr.com/65535/52572727620_943198956a_b.jpg)
+
 
